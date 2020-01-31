@@ -11,7 +11,7 @@ GOAL: Create a program that:
 **STAGE 1**
 * Creates 127 items
 * Assigns each item:
-  1. An ascending hexadecimal code
+  1. An ascending 8-digit hexadecimal code
   2. A random positive integer (you decide the range)
   and
   3. A random five-letter word from a list of at least 8 items.
